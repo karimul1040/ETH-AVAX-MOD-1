@@ -52,4 +52,4 @@ If you encounter any issues or have questions, feel free to [Karimul Hasan](22BC
 - Contact: 22BCT10001@cuchd.in
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
